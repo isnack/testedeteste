@@ -10,11 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "casperjs":"~1.1.1",
-      "phantomjs":"~2.1.7",
-  "grunt-contrib-jshint": "~1.0.0",
-  "grunt-contrib-clean": "~1.0.0",
-  "grunt-contrib-nodeunit": "~1.0.0",
-    "grunt": "^1.0.1",
-    "grunt-casperjs": "^2.2.0"
+      "phantomjs":"~2.1.7"
   }
 }
